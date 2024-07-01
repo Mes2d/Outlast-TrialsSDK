@@ -8,6 +8,19 @@
 
 
 ### Other offsets:
+```cpp
+/* June 30, 2024 */
+namespace Offsets
+{
+	constexpr int32 GObjects          = 0x05C348C0;
+	constexpr int32 AppendString      = 0x0092D4EC;
+	constexpr int32 GNames            = 0x05DAE9C0;
+	constexpr int32 GWorld            = 0x05C84470;
+	constexpr int32 ProcessEvent      = 0x008C82A4;
+	constexpr int32 ProcessEventIdx   = 0x00000044;
+}
+```
+
 ```c
 /* June 30, 2024 */
 GObjects at offset 0x5c348c0
